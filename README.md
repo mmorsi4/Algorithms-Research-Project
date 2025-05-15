@@ -1,7 +1,7 @@
 # Advanced Algorithms & Complexity  
 **Spring 2025 · CSE332 / CSE245 · Ain Shams University**
 
-A group project tackling six challenging algorithmic puzzles and a comparative study of three NP-type problems. Implementations are in C++, Java, and C#, with a unified testing framework and clear documentation.
+A group project tackling six challenging algorithmic puzzles and a comparative study of three NP-type problems. Implementations are in C++, Java, and C#, with some visualizations and clear documentation.
 
 ---
 
@@ -18,3 +18,6 @@ We applied divide-and-conquer, dynamic programming, greedy methods, backtracking
 
 ---
 
+## 📚 Documentation & Code Layout  
+The detailed report, including pseudo-code, complexity analyses, sample outputs and references are in this **main directory**. <br>
+The full source code for each task lives under **`/code/`**, organized into subfolders named for each problem.
